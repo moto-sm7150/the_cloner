@@ -12,11 +12,11 @@ First, enter your work environment. This is an example to build <b> Lineage OS <
 
 Now, clone this script according to the device you want to build:
 
-<b>Odessa:</b> `curl -o odessa_staging.sh https://raw.githubusercontent.com/moto-sm6150/the_cloner/staging/odessa_staging.sh && chmod +x odessa_staging.sh `
+<b>Odessa:</b> `curl -o odessa_staging.sh https://raw.githubusercontent.com/moto-sm7150/the_cloner/staging/odessa_staging.sh && chmod +x odessa_staging.sh `
 
 ### Example
 ```
-:~/roms/LineageOS$ curl -o <device>_<revision>.sh https://raw.githubusercontent.com/moto-sm6150/the_cloner/<revision>/<device>_<revision>.sh;
+:~/roms/LineageOS$ curl -o <device>_<revision>.sh https://raw.githubusercontent.com/moto-sm7150/the_cloner/<revision>/<device>_<revision>.sh;
 :~/roms/LineageOS$ chmod +x <device>_<revision>.sh
 ```
 
@@ -31,7 +31,7 @@ Afterwards, just run the script and the whole project will be cloned automatical
 ```
 /*
  * Copyright (C) 2018 - 2021 kytoaq <kytoaq@gmail.com>
- * Copyright (C) 2020 - 2021 Motorola™ SM6150
+ * Copyright (C) 2020 - 2021 Motorola™ SM7150
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
